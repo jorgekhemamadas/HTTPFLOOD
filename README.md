@@ -1,2 +1,0 @@
-# HTTPFLOOD
-Avanzado L7
